@@ -40,4 +40,6 @@ Project aims to create TODO Application with React Native.
 
 - Step 3: Create News Page with React Native.
 
-**<p align="center">&#9786; Happy Coding &#9997;</p>**
+<p align="center">&#9786; Happy Coding &#9997;</p>
+
+
